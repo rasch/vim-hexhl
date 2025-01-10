@@ -14,11 +14,11 @@
 CONTENTS                                                 *HexHlContents*
 
     1. Introduction ......... |HexHlIntroduction|
-    1. Usage ................ |HexHlUsage|
-    2. Commands ............. |HexHlCommands|
-    3. License .............. |HexHlLicense|
-    4. Changelog ............ |HexHlChangelog|
-    5. Credits .............. |HexHlCredits|
+    2. Usage ................ |HexHlUsage|
+    3. Commands ............. |HexHlCommands|
+    4. License .............. |HexHlLicense|
+    5. Changelog ............ |HexHlChangelog|
+    6. Credits .............. |HexHlCredits|
 
 ========================================================================
 INTRODUCTION                                         *HexHlIntroduction*
